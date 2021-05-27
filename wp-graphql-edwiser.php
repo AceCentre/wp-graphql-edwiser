@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: WPGraphql Edwiser
+ * Plugin Name: Connect Moodle to WPGraphql via Edwiser
  * Description:       Adds Moodle Courses to your GraphQL schema via Edwiser Bridge
  * Author:            Ace Centre, Gavin Henderson
  * Author URI:        https://github.com/AceCentre

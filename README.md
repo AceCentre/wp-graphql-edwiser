@@ -1,4 +1,4 @@
-# wp-graphql-edwiser <!-- omit in toc -->
+# Connect Moodle to WPGraphql via Edwiser <!-- omit in toc -->
 
 Add Moodle Course (via Edwiser Bridge) support and functionality to your WPGraphQL server
 

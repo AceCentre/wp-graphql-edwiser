@@ -1,4 +1,4 @@
-=== WPGraphQL ===
+=== Connect Moodle to WPGraphql via Edwiser ===
 Contributors: gavinhenderson
 Tags: GraphQL, API, Gatsby, Headless, Decoupled, React, Nextjs, Vue, Apollo, REST, JSON,  HTTP, Remote, Query Language, Woocommerce, Edwiser, LMS, Moodle, AceCente, WisdmLabs, WordPress, Moodle, Courses, Users, Synchronization, Sell Courses, Learning Management System, LMS, LMS Integration, Moodle WordPress, WordPress Moodle, WP Moodle,
 Stable tag: 1
