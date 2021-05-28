@@ -6,6 +6,9 @@
  * Author:            Ace Centre, Gavin Henderson
  * Author URI:        https://github.com/AceCentre
  * Version:           1
+ * Requires at least: 5.0
+ * Tested up to: 5.6
+ * Requires PHP: 7.1
  * GitHub Plugin URI: https://github.com/acecentre/wp-graphql-edwiser
  * License: GPL-3
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html

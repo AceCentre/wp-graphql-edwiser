@@ -3,6 +3,9 @@ Contributors: gavinhenderson
 Tags: GraphQL, API, Gatsby, Headless, Decoupled, React, Nextjs, Vue, Apollo, REST, JSON,  HTTP, Remote, Query Language, Woocommerce, Edwiser, LMS, Moodle, AceCente, WisdmLabs, WordPress, Moodle, Courses, Users, Synchronization, Sell Courses, Learning Management System, LMS, LMS Integration, Moodle WordPress, WordPress Moodle, WP Moodle,
 Stable tag: 1
 License: GPL-3
+Requires at least: 5.0
+Tested up to: 5.6
+Requires PHP: 7.1
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
